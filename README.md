@@ -1,7 +1,5 @@
 # Deep Learning Specialization Course Assignments
 
-![Deep Learning Specialization](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2021%2F02%2FLogoFiles_DeepLearning_PrimaryLogo.png&tbnid=1JV-2B1BdgXACM&vet=12ahUKEwjJu7_WnbKAAxUmpycCHRcOCJsQMygBegUIARCfAQ..i&imgrefurl=https%3A%2F%2Fwww.deeplearning.ai%2Fcourses%2Fgenerative-ai-with-llms%2F&docid=J_FTtDddiqvIsM&w=2677&h=601&q=deeplearning.ai&ved=2ahUKEwjJu7_WnbKAAxUmpycCHRcOCJsQMygBegUIARCfAQ)
-
 This repository contains the code implementations for the assignments of the Deep Learning Specialization course. The Deep Learning Specialization is a comprehensive and hands-on program designed to provide a solid understanding of deep learning techniques and their applications. The course covers a range of topics, including neural networks, convolutional networks, recurrent networks, natural language processing, and more.
 
 ## Table of Contents
