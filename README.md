@@ -46,7 +46,7 @@ For example, to run an assignment from Course 1:
 
 1. Go to the Course 1 directory:
    ```
-   cd deep-learning-specialization/Course1
+   cd Deep-Learning-Specialization/Neural-Networks-and-Deep-Learning/Week-1
    ```
 2. Follow the instructions in the README of the specific assignment directory.
 
